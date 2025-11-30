@@ -176,3 +176,6 @@ View all expenses
  - Budget setting and alerts
  - Receipt image attachment
  - Multi-currency support
+
+## Contact :
+https://github.com/630579/@example.com
